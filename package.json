@@ -4,8 +4,8 @@
   "description": "A node.js study project using faker.js library",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "start-dev": "nodemon index.js"
   },
   "author": "Hugo de Moraes",
   "license": "MIT",
